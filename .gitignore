@@ -10,7 +10,6 @@ old/
 vgui/
 sol/
 imgui/
-bsnes/
 include/bgfx/
 include/bgfx/*
 !bin/lua/
